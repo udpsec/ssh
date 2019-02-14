@@ -58,7 +58,7 @@ http://www.springframework.org/schema/aop/spring-aop-4.2.xsd
 		<!-- 自动扫描注解方式配置的hibernate类文件 -->
 		<property name="packagesToScan">
 			<list>
-				<value>com.itron.model</value>
+				<value>com.inofd.model</value>
 			</list>
 		</property>
 	</bean>
