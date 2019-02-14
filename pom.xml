@@ -197,7 +197,7 @@
                 <version>${plugin.version}</version>
                 <configuration>
                     <!-- 设置编码 -->
-                    <encoding>UTF-8</encoding>
+<!--                    <encoding>UTF-8</encoding>-->
                     <!-- 设置名称 -->
                     <warName>ROOT</warName>
                 </configuration>
