@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="itronys" />
+        <module name="ssh" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="itronys" target="1.8" />
+      <module name="ssh" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
