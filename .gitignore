@@ -45,8 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-.gitkeep
-src/main/java/
+#.gitkeep
 target/ROOT.war
 target/itronys-0.0.1-SNAPSHOT/
 target/maven-archiver/
