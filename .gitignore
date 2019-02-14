@@ -45,6 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.gitkeep
 src/main/java/
 target/ROOT.war
 target/itronys-0.0.1-SNAPSHOT/
